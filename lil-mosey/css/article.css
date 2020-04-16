@@ -134,7 +134,9 @@ and (min-width: 0px){
   color: red;
   font-size: 115%;
 }
-
+.ig-art{
+  text-align: center;
+}
 .badge{
   display: block;
   position: absolute;
