@@ -3,7 +3,6 @@ $("body").css("background-image","url(img/thx.jpg)");
 //LOGO LEADS TO HOME PAGE
 $("header .logo").click(
   function(){
-    alert("Home");
     window.location.href='../';
   }
 );
